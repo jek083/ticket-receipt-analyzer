@@ -1,0 +1,67 @@
+{
+  "fichier_source": "e6fc2932-622a-492f-8821-d48413f5a415.pdf",
+  "enseigne": "Picard",
+  "date": "2027-01-31",
+  "total_ticket": 21.77,
+  "total_remises": null,
+  "nombre_articles_ticket": 5,
+  "articles_detectes": 5,
+  "unites_detectees": 5,
+  "articles": [
+    {
+      "article": "Gl Amarena It",
+      "rayon": "SURGELES",
+      "prix_unitaire": 2.99,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 2.99,
+      "tva_code": null,
+      "categorie": "glaces"
+    },
+    {
+      "article": "Sorbet mangue 60",
+      "rayon": "SURGELES",
+      "prix_unitaire": 4.6,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 4.6,
+      "tva_code": null,
+      "categorie": "glaces"
+    },
+    {
+      "article": "Façon cappuccino",
+      "rayon": "SURGELES",
+      "prix_unitaire": 2.99,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 2.99,
+      "tva_code": null,
+      "categorie": null
+    },
+    {
+      "article": "Crev.cury roug",
+      "rayon": "SURGELES",
+      "prix_unitaire": 9.99,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 9.99,
+      "tva_code": null,
+      "categorie": null
+    },
+    {
+      "article": "Gnocchi mix miam",
+      "rayon": "SURGELES",
+      "prix_unitaire": 1.2,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 1.2,
+      "tva_code": null,
+      "categorie": null
+    }
+  ]
+}

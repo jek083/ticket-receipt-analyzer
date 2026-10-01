@@ -1,0 +1,133 @@
+{
+  "fichier_source": "Marcel&Fils_20260502.png",
+  "enseigne": "Marcel&Fils",
+  "date": "2026-05-02 10:32",
+  "total_ticket": 48.39,
+  "total_remises": null,
+  "nombre_articles_ticket": null,
+  "articles_detectes": 11,
+  "unites_detectees": 11,
+  "articles": [
+    {
+      "article": "COUSCOUS PETIT EPEAU",
+      "rayon": null,
+      "prix_unitaire": 4.49,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 4.49,
+      "tva_code": "5.5%",
+      "categorie": "boissons"
+    },
+    {
+      "article": "RIZ DE CAMARGUES BLA",
+      "rayon": null,
+      "prix_unitaire": 2.85,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 2.85,
+      "tva_code": "5.5%",
+      "categorie": "epicerie"
+    },
+    {
+      "article": "COUSCOUS MAIS RIZ ET",
+      "rayon": null,
+      "prix_unitaire": 4.69,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 4.69,
+      "tva_code": "5.5%",
+      "categorie": "epicerie"
+    },
+    {
+      "article": "FL MYRTILLE BARQUETT",
+      "rayon": null,
+      "prix_unitaire": 2.59,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 2.59,
+      "tva_code": "5.5%",
+      "categorie": "autre"
+    },
+    {
+      "article": "FL FRAMBOISE BARQUET",
+      "rayon": null,
+      "prix_unitaire": 2.99,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 2.99,
+      "tva_code": "5.5%",
+      "categorie": "fruits_legumes"
+    },
+    {
+      "article": "FL CONCOMBRE LONG",
+      "rayon": null,
+      "prix_unitaire": 1.69,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 1.69,
+      "tva_code": "5.5%",
+      "categorie": "autre"
+    },
+    {
+      "article": "THE VERT JASMIN'T 10",
+      "rayon": null,
+      "prix_unitaire": 7.95,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 7.95,
+      "tva_code": "5.5%",
+      "categorie": "autre"
+    },
+    {
+      "article": "THE VERT PARFUM IRAN",
+      "rayon": null,
+      "prix_unitaire": 8.5,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 8.5,
+      "tva_code": "5.5%",
+      "categorie": "autre"
+    },
+    {
+      "article": "YERBA MATE EQUITABLE",
+      "rayon": null,
+      "prix_unitaire": 4.4,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 4.4,
+      "tva_code": "5.5%",
+      "categorie": "autre"
+    },
+    {
+      "article": "AMANDES COMPLETES DE",
+      "rayon": null,
+      "prix_unitaire": 6.75,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 6.75,
+      "tva_code": "5.5%",
+      "categorie": "autre"
+    },
+    {
+      "article": "FL MANGUE AMELIE i it",
+      "rayon": null,
+      "prix_unitaire": 1.49,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 1.49,
+      "tva_code": "5.5%",
+      "categorie": "autre"
+    }
+  ]
+}

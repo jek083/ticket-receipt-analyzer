@@ -1,0 +1,123 @@
+{
+  "fichier_source": "a4c594b9-6174-434a-a01a-474cd6b6f7ee.pdf",
+  "enseigne": "Intermarché",
+  "date": "2026-09-01 18:32",
+  "total_ticket": 29.3,
+  "total_remises": null,
+  "nombre_articles_ticket": 14,
+  "articles_detectes": 10,
+  "unites_detectees": 14,
+  "articles": [
+    {
+      "article": "BOND TABOULE ORIENTA",
+      "rayon": null,
+      "prix_unitaire": 1.41,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 1.41,
+      "tva_code": "A",
+      "categorie": "autre"
+    },
+    {
+      "article": "ESPADRILLE",
+      "rayon": null,
+      "prix_unitaire": 10.99,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 10.99,
+      "tva_code": "B",
+      "categorie": "autre"
+    },
+    {
+      "article": "P&C PAIN NORDIQUE PR",
+      "rayon": null,
+      "prix_unitaire": 1.55,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 1.55,
+      "tva_code": "A",
+      "categorie": "boulangerie"
+    },
+    {
+      "article": "ADELIE BAC CAFE 500G",
+      "rayon": null,
+      "prix_unitaire": 2.17,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 2.17,
+      "tva_code": "A",
+      "categorie": "autre"
+    },
+    {
+      "article": "BOND PUREE DELICE VE",
+      "rayon": null,
+      "prix_unitaire": 2.9,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 2.9,
+      "tva_code": "A",
+      "categorie": "fruits_legumes"
+    },
+    {
+      "article": "BOND PUREE DUO DOUCE",
+      "rayon": null,
+      "prix_unitaire": 2.9,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 2.9,
+      "tva_code": "A",
+      "categorie": "fruits_legumes"
+    },
+    {
+      "article": "KIWI VERT PIECE",
+      "rayon": null,
+      "prix_unitaire": 0.59,
+      "quantite": 5,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 2.95,
+      "tva_code": "A",
+      "categorie": "fruits_legumes"
+    },
+    {
+      "article": "FIEE DES LOIS E.SOUR",
+      "rayon": null,
+      "prix_unitaire": 0.3,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 0.3,
+      "tva_code": "A",
+      "categorie": "autre"
+    },
+    {
+      "article": "IDS PARMIGIANO REGGI",
+      "rayon": null,
+      "prix_unitaire": 1.19,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 1.19,
+      "tva_code": "A",
+      "categorie": "autre"
+    },
+    {
+      "article": "GRESS.RUBATA' SESAME",
+      "rayon": null,
+      "prix_unitaire": 2.94,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 2.94,
+      "tva_code": "A",
+      "categorie": "autre"
+    }
+  ],
+  "format_magasin": "Hyper"
+}

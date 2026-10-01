@@ -1,0 +1,34 @@
+{
+  "fichier_source": "9a3e107d-a3c0-4f43-8ab2-862b71dbd299.pdf",
+  "enseigne": "Picard",
+  "date": "2027-01-31",
+  "total_ticket": 10.08,
+  "total_remises": 2.0,
+  "nombre_articles_ticket": 4,
+  "articles_detectes": 2,
+  "unites_detectees": 2,
+  "articles": [
+    {
+      "article": "Epinards bio",
+      "rayon": "SURGELES",
+      "prix_unitaire": 2.9,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 2.9,
+      "tva_code": null,
+      "categorie": "fruits_legumes"
+    },
+    {
+      "article": "Gnocchi mix miam",
+      "rayon": "SURGELES",
+      "prix_unitaire": 1.2,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 1.2,
+      "tva_code": null,
+      "categorie": null
+    }
+  ]
+}

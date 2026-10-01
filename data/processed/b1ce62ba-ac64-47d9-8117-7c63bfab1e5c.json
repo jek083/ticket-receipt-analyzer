@@ -1,0 +1,67 @@
+{
+  "fichier_source": "b1ce62ba-ac64-47d9-8117-7c63bfab1e5c.pdf",
+  "enseigne": "Picard",
+  "date": "2027-01-31",
+  "total_ticket": 27.68,
+  "total_remises": 3.2,
+  "nombre_articles_ticket": 7,
+  "articles_detectes": 5,
+  "unites_detectees": 5,
+  "articles": [
+    {
+      "article": "Nocciola crème g",
+      "rayon": "SURGELES",
+      "prix_unitaire": 2.99,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 2.99,
+      "tva_code": null,
+      "categorie": "glaces"
+    },
+    {
+      "article": "Puré potimarron",
+      "rayon": "SURGELES",
+      "prix_unitaire": 2.5,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 2.5,
+      "tva_code": null,
+      "categorie": null
+    },
+    {
+      "article": "Navarin mer 800g",
+      "rayon": "SURGELES",
+      "prix_unitaire": 15.99,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 15.99,
+      "tva_code": null,
+      "categorie": null
+    },
+    {
+      "article": "Epinards bio",
+      "rayon": "SURGELES",
+      "prix_unitaire": 2.9,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 2.9,
+      "tva_code": null,
+      "categorie": "fruits_legumes"
+    },
+    {
+      "article": "Trio lég mix mia",
+      "rayon": "SURGELES",
+      "prix_unitaire": 1.2,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 1.2,
+      "tva_code": null,
+      "categorie": null
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "fichier_source": "ticket_Carrefour.png",
+  "enseigne": "Carrefour",
+  "date": "2025-11-08",
+  "total_ticket": 54.44,
+  "total_remises": 0.47,
+  "nombre_articles_ticket": 14,
+  "articles_detectes": 11,
+  "unites_detectees": 14,
+  "articles": [
+    {
+      "article": "BQ P SAUM AP FOC",
+      "rayon": "Alimentaire",
+      "prix_unitaire": 6.59,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 6.59,
+      "tva_code": "4",
+      "categorie": "autre"
+    },
+    {
+      "article": "CAROTTE 1 5KG FAC",
+      "rayon": "Alimentaire",
+      "prix_unitaire": 2.29,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 2.29,
+      "tva_code": "4",
+      "categorie": "fruits_legumes"
+    },
+    {
+      "article": "CREV 25/35",
+      "rayon": "Alimentaire",
+      "prix_unitaire": 4.99,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 4.99,
+      "tva_code": "4",
+      "categorie": "autre"
+    },
+    {
+      "article": "KIWI VERT PIECE",
+      "rayon": "Alimentaire",
+      "prix_unitaire": 0.59,
+      "quantite": 4,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 2.36,
+      "tva_code": "4",
+      "categorie": "fruits_legumes"
+    },
+    {
+      "article": "NOIX SECH. RDF ikG",
+      "rayon": "Alimentaire",
+      "prix_unitaire": 8.15,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 8.15,
+      "tva_code": "4",
+      "categorie": "autre"
+    },
+    {
+      "article": "750G PURE PATAT. DO",
+      "rayon": "Alimentaire",
+      "prix_unitaire": 2.99,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 2.99,
+      "tva_code": "4",
+      "categorie": "autre"
+    },
+    {
+      "article": "BAGUETINE CAMP FQC",
+      "rayon": "Alimentaire",
+      "prix_unitaire": 0.85,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 0.85,
+      "tva_code": "4",
+      "categorie": "autre"
+    },
+    {
+      "article": "MANGUE PIECE",
+      "rayon": "Alimentaire",
+      "prix_unitaire": 1.99,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 1.99,
+      "tva_code": "4",
+      "categorie": "autre"
+    },
+    {
+      "article": "RTE MCHRS ECOPLANE",
+      "rayon": "Entretien Hys-BeautÜ",
+      "prix_unitaire": 1.65,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 1.65,
+      "tva_code": "6",
+      "categorie": "autre"
+    },
+    {
+      "article": "A00ML INSECTIC.ANT",
+      "rayon": "Entretien Hys-BeautÜ",
+      "prix_unitaire": 2.15,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 2.15,
+      "tva_code": "6",
+      "categorie": "autre"
+    },
+    {
+      "article": "BOSCH BEG ADAPT EN",
+      "rayon": "Non Alimentaire",
+      "prix_unitaire": 20.9,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 20.9,
+      "tva_code": "6",
+      "categorie": "autre"
+    }
+  ]
+}

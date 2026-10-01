@@ -1,0 +1,56 @@
+{
+  "fichier_source": "03ceccee-7538-464b-a200-d6063e0fa691.pdf",
+  "enseigne": "Picard",
+  "date": "2027-01-31",
+  "total_ticket": 13.07,
+  "total_remises": 0.8,
+  "nombre_articles_ticket": 4,
+  "articles_detectes": 4,
+  "unites_detectees": 4,
+  "articles": [
+    {
+      "article": "Gl Amarena It",
+      "rayon": "SURGELES",
+      "prix_unitaire": 2.99,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 2.99,
+      "tva_code": null,
+      "categorie": "glaces"
+    },
+    {
+      "article": "Epinards bio",
+      "rayon": "SURGELES",
+      "prix_unitaire": 2.9,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 2.9,
+      "tva_code": null,
+      "categorie": "fruits_legumes"
+    },
+    {
+      "article": "Naanwich poulet",
+      "rayon": "SURGELES",
+      "prix_unitaire": 3.99,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 3.99,
+      "tva_code": null,
+      "categorie": "viandes"
+    },
+    {
+      "article": "Chapati sce méch",
+      "rayon": "SURGELES",
+      "prix_unitaire": 3.99,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 3.99,
+      "tva_code": null,
+      "categorie": null
+    }
+  ]
+}

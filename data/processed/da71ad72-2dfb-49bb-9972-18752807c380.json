@@ -1,0 +1,56 @@
+{
+  "fichier_source": "da71ad72-2dfb-49bb-9972-18752807c380.pdf",
+  "enseigne": "Picard",
+  "date": "2027-01-31",
+  "total_ticket": 23.87,
+  "total_remises": 1.8,
+  "nombre_articles_ticket": 6,
+  "articles_detectes": 4,
+  "unites_detectees": 4,
+  "articles": [
+    {
+      "article": "Façon cappuccino",
+      "rayon": "SURGELES",
+      "prix_unitaire": 2.99,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 2.99,
+      "tva_code": null,
+      "categorie": null
+    },
+    {
+      "article": "Tagliat truffe",
+      "rayon": "SURGELES",
+      "prix_unitaire": 3.99,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 3.99,
+      "tva_code": null,
+      "categorie": "glaces"
+    },
+    {
+      "article": "Gnocchi aux cèpe",
+      "rayon": "SURGELES",
+      "prix_unitaire": 2.99,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 2.99,
+      "tva_code": null,
+      "categorie": null
+    },
+    {
+      "article": "Cockt.fruit mer",
+      "rayon": "SURGELES",
+      "prix_unitaire": 8.5,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 8.5,
+      "tva_code": null,
+      "categorie": "fruits_legumes"
+    }
+  ]
+}

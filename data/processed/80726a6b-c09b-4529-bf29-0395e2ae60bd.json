@@ -1,0 +1,200 @@
+{
+  "fichier_source": "80726a6b-c09b-4529-bf29-0395e2ae60bd.pdf",
+  "enseigne": "Intermarché",
+  "date": "2025-10-16 18:40",
+  "total_ticket": 44.32,
+  "total_remises": 1.41,
+  "nombre_articles_ticket": 22,
+  "articles_detectes": 17,
+  "unites_detectees": 22,
+  "articles": [
+    {
+      "article": "BOND PUREE DELICE VE",
+      "rayon": null,
+      "prix_unitaire": 3.53,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 3.53,
+      "tva_code": "A",
+      "categorie": "fruits_legumes"
+    },
+    {
+      "article": "BOND.EPINAR.SS RESID",
+      "rayon": null,
+      "prix_unitaire": 2.3,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 2.3,
+      "tva_code": "A",
+      "categorie": "autre"
+    },
+    {
+      "article": "ROQUETTE BARQUETTE 1",
+      "rayon": null,
+      "prix_unitaire": 1.29,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 1.29,
+      "tva_code": "A",
+      "categorie": "autre"
+    },
+    {
+      "article": "CASSEGRAIN FL.VERT E",
+      "rayon": null,
+      "prix_unitaire": 1.91,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 1.91,
+      "tva_code": "A",
+      "categorie": "autre"
+    },
+    {
+      "article": "CASSEGRAIN POIS/PROV",
+      "rayon": null,
+      "prix_unitaire": 3.52,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 3.52,
+      "tva_code": "A",
+      "categorie": "autre"
+    },
+    {
+      "article": "CASSEG HT PLAT PROVE",
+      "rayon": null,
+      "prix_unitaire": 3.67,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 3.67,
+      "tva_code": "A",
+      "categorie": "autre"
+    },
+    {
+      "article": "TEISSEIRE SRP GRENAD",
+      "rayon": null,
+      "prix_unitaire": 2.26,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 2.26,
+      "tva_code": "A",
+      "categorie": "autre"
+    },
+    {
+      "article": "ENDIVE SACHET 650G",
+      "rayon": null,
+      "prix_unitaire": 1.99,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 1.99,
+      "tva_code": "A",
+      "categorie": "autre"
+    },
+    {
+      "article": "ODYSSEE THON ALB TRC",
+      "rayon": null,
+      "prix_unitaire": 3.83,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 3.83,
+      "tva_code": "A",
+      "categorie": "autre"
+    },
+    {
+      "article": "PAT YRT GRECQ S/FRT",
+      "rayon": null,
+      "prix_unitaire": 2.01,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 2.01,
+      "tva_code": "A",
+      "categorie": "autre"
+    },
+    {
+      "article": "PAT YRT GRECQ S/FRT",
+      "rayon": null,
+      "prix_unitaire": 2.01,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 2.01,
+      "tva_code": "A",
+      "categorie": "autre"
+    },
+    {
+      "article": "PAT SKYR MYRTILLE 45",
+      "rayon": null,
+      "prix_unitaire": 2.89,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 2.89,
+      "tva_code": "A",
+      "categorie": "autre"
+    },
+    {
+      "article": "FE P&C JBN CUIT AC L",
+      "rayon": null,
+      "prix_unitaire": 2.08,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 2.08,
+      "tva_code": "A",
+      "categorie": "autre"
+    },
+    {
+      "article": "FE COMTE AOP 10 MOIS",
+      "rayon": null,
+      "prix_unitaire": 4.91,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 4.91,
+      "tva_code": "A",
+      "categorie": "autre"
+    },
+    {
+      "article": "RAISIN BLANC CHASSEL",
+      "rayon": null,
+      "prix_unitaire": 3.24,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 3.24,
+      "tva_code": "A",
+      "categorie": "epicerie"
+    },
+    {
+      "article": "CONCOMBRE PIECE",
+      "rayon": null,
+      "prix_unitaire": 0.99,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 0.99,
+      "tva_code": "A",
+      "categorie": "autre"
+    },
+    {
+      "article": "KIWI VERT PIECE",
+      "rayon": null,
+      "prix_unitaire": 0.55,
+      "quantite": 6,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 3.3,
+      "tva_code": "A",
+      "categorie": "fruits_legumes"
+    }
+  ],
+  "format_magasin": "Super"
+}

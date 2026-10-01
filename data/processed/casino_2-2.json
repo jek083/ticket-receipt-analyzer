@@ -1,0 +1,221 @@
+{
+  "fichier_source": "casino_2-2.png",
+  "enseigne": "Casino",
+  "date": null,
+  "total_ticket": 72.07,
+  "total_remises": 3.41,
+  "nombre_articles_ticket": null,
+  "articles_detectes": 19,
+  "unites_detectees": 23,
+  "articles": [
+    {
+      "article": "BIERF 75CL",
+      "rayon": null,
+      "prix_unitaire": 5.06,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 5.06,
+      "tva_code": null,
+      "categorie": "autre"
+    },
+    {
+      "article": "NESTLL DESS .PEPITE",
+      "rayon": null,
+      "prix_unitaire": 2.95,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 2.95,
+      "tva_code": null,
+      "categorie": "autre"
+    },
+    {
+      "article": "BIÈRE NINKASI BLON",
+      "rayon": null,
+      "prix_unitaire": 4.59,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 4.59,
+      "tva_code": null,
+      "categorie": "boissons"
+    },
+    {
+      "article": "° OEUFS PPA X6",
+      "rayon": null,
+      "prix_unitaire": 2.69,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 2.69,
+      "tva_code": null,
+      "categorie": "autre"
+    },
+    {
+      "article": "RAVIOLI COEUF BRAI",
+      "rayon": null,
+      "prix_unitaire": 3.95,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 3.95,
+      "tva_code": null,
+      "categorie": "autre"
+    },
+    {
+      "article": "GOUDA VIEUX",
+      "rayon": null,
+      "prix_unitaire": 23.95,
+      "quantite": 1,
+      "poids_kg": 0.314,
+      "prix_kg": 23.95,
+      "prix_total": 7.52,
+      "tva_code": null,
+      "categorie": "autre"
+    },
+    {
+      "article": "HF COMTE AOP &M",
+      "rayon": null,
+      "prix_unitaire": 7.8,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 7.8,
+      "tva_code": null,
+      "categorie": "autre"
+    },
+    {
+      "article": "FLO .AVOINE 5006",
+      "rayon": null,
+      "prix_unitaire": 1.09,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 1.09,
+      "tva_code": null,
+      "categorie": "autre"
+    },
+    {
+      "article": "DATTES DENOY",
+      "rayon": null,
+      "prix_unitaire": 3.05,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 3.05,
+      "tva_code": null,
+      "categorie": "autre"
+    },
+    {
+      "article": "PLAT . ASSORT",
+      "rayon": null,
+      "prix_unitaire": 7.7,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 7.7,
+      "tva_code": null,
+      "categorie": "autre"
+    },
+    {
+      "article": "CRANBERRY 150",
+      "rayon": null,
+      "prix_unitaire": 4.6,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 4.6,
+      "tva_code": null,
+      "categorie": "autre"
+    },
+    {
+      "article": "FOZZA LEGUMES POUL",
+      "rayon": null,
+      "prix_unitaire": 2.0,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 2.0,
+      "tva_code": null,
+      "categorie": "autre"
+    },
+    {
+      "article": "DATTE BRANCH",
+      "rayon": null,
+      "prix_unitaire": 3.69,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 3.69,
+      "tva_code": null,
+      "categorie": "autre"
+    },
+    {
+      "article": "PATATE DOUCE",
+      "rayon": null,
+      "prix_unitaire": 1.99,
+      "quantite": 1,
+      "poids_kg": 0.95,
+      "prix_kg": 1.99,
+      "prix_total": 1.89,
+      "tva_code": null,
+      "categorie": "autre"
+    },
+    {
+      "article": "POM DE TERRE",
+      "rayon": null,
+      "prix_unitaire": 1.79,
+      "quantite": 1,
+      "poids_kg": 0.905,
+      "prix_kg": 1.79,
+      "prix_total": 1.62,
+      "tva_code": null,
+      "categorie": "autre"
+    },
+    {
+      "article": "BAIES GOJI CO BIO",
+      "rayon": null,
+      "prix_unitaire": 3.59,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 3.59,
+      "tva_code": null,
+      "categorie": "autre"
+    },
+    {
+      "article": "BIO NOIX CAJOU",
+      "rayon": null,
+      "prix_unitaire": 27.9,
+      "quantite": 1,
+      "poids_kg": 0.25,
+      "prix_kg": 27.9,
+      "prix_total": 6.98,
+      "tva_code": null,
+      "categorie": "autre"
+    },
+    {
+      "article": "BAGUETTE",
+      "rayon": null,
+      "prix_unitaire": 1.21,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 1.21,
+      "tva_code": null,
+      "categorie": "boulangerie"
+    },
+    {
+      "article": "KIWI GOLD",
+      "rayon": null,
+      "prix_unitaire": 0.7,
+      "quantite": 5,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 3.5,
+      "tva_code": null,
+      "categorie": "fruits_legumes"
+    }
+  ]
+}

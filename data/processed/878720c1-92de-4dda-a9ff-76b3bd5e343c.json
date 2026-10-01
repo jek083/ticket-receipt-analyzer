@@ -1,0 +1,78 @@
+{
+  "fichier_source": "878720c1-92de-4dda-a9ff-76b3bd5e343c.pdf",
+  "enseigne": "Picard",
+  "date": "2027-01-31",
+  "total_ticket": 18.71,
+  "total_remises": null,
+  "nombre_articles_ticket": 7,
+  "articles_detectes": 6,
+  "unites_detectees": 6,
+  "articles": [
+    {
+      "article": "Poulet cury FE",
+      "rayon": "SURGELES",
+      "prix_unitaire": 2.99,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 2.99,
+      "tva_code": null,
+      "categorie": "viandes"
+    },
+    {
+      "article": "Gl pistache It",
+      "rayon": "SURGELES",
+      "prix_unitaire": 2.99,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 2.99,
+      "tva_code": null,
+      "categorie": "glaces"
+    },
+    {
+      "article": "Façon cappuccino",
+      "rayon": "SURGELES",
+      "prix_unitaire": 2.99,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 2.99,
+      "tva_code": null,
+      "categorie": null
+    },
+    {
+      "article": "Purée lég vert b",
+      "rayon": "SURGELES",
+      "prix_unitaire": 2.65,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 2.65,
+      "tva_code": null,
+      "categorie": null
+    },
+    {
+      "article": "Gnocchi mix miam",
+      "rayon": "SURGELES",
+      "prix_unitaire": 1.2,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 1.2,
+      "tva_code": null,
+      "categorie": null
+    },
+    {
+      "article": "Epinards bio",
+      "rayon": "SURGELES",
+      "prix_unitaire": 2.9,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 2.9,
+      "tva_code": null,
+      "categorie": "fruits_legumes"
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "fichier_source": "Lidl_20260911.png",
+  "enseigne": "Lidl",
+  "date": "2026-09-14 18:49",
+  "total_ticket": 29.66,
+  "total_remises": 2.38,
+  "nombre_articles_ticket": 13,
+  "articles_detectes": 13,
+  "unites_detectees": 19,
+  "articles": [
+    {
+      "article": "Mélange de graines",
+      "rayon": null,
+      "prix_unitaire": 3.59,
+      "quantite": 2,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 7.18,
+      "tva_code": "A",
+      "categorie": "autre"
+    },
+    {
+      "article": "Kiwi",
+      "rayon": null,
+      "prix_unitaire": 0.59,
+      "quantite": 6,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 3.54,
+      "tva_code": null,
+      "categorie": "fruits_legumes"
+    },
+    {
+      "article": "Spécialités lait lat",
+      "rayon": null,
+      "prix_unitaire": 1.98,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 1.98,
+      "tva_code": "A",
+      "categorie": "produits_laitiers"
+    },
+    {
+      "article": "Spécialités lait kir",
+      "rayon": null,
+      "prix_unitaire": 1.98,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 1.98,
+      "tva_code": "A",
+      "categorie": "produits_laitiers"
+    },
+    {
+      "article": "Boisson au soja Bio",
+      "rayon": null,
+      "prix_unitaire": 0.88,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 0.88,
+      "tva_code": "A",
+      "categorie": "autre"
+    },
+    {
+      "article": "Lait délactosé",
+      "rayon": null,
+      "prix_unitaire": 1.25,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 1.25,
+      "tva_code": null,
+      "categorie": "produits_laitiers"
+    },
+    {
+      "article": "Tubes qui piquent",
+      "rayon": null,
+      "prix_unitaire": 1.13,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 1.13,
+      "tva_code": "B",
+      "categorie": "autre"
+    },
+    {
+      "article": "Raisins secs",
+      "rayon": null,
+      "prix_unitaire": 1.95,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 1.95,
+      "tva_code": "A",
+      "categorie": "autre"
+    },
+    {
+      "article": "Chocolat noir 85% ca",
+      "rayon": null,
+      "prix_unitaire": 3.74,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 3.74,
+      "tva_code": "A",
+      "categorie": "autre"
+    },
+    {
+      "article": "Oeufs Bio",
+      "rayon": null,
+      "prix_unitaire": 3.41,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 3.41,
+      "tva_code": null,
+      "categorie": "autre"
+    },
+    {
+      "article": "Jeune pousse end",
+      "rayon": null,
+      "prix_unitaire": 2.49,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 2.49,
+      "tva_code": null,
+      "categorie": "autre"
+    },
+    {
+      "article": "Banane Bio Fairtrade tft",
+      "rayon": null,
+      "prix_unitaire": 2.09,
+      "quantite": 1,
+      "poids_kg": 0.726,
+      "prix_kg": 2.09,
+      "prix_total": 1.52,
+      "tva_code": null,
+      "categorie": "fruits_legumes"
+    },
+    {
+      "article": "Pomme 4 fruits",
+      "rayon": null,
+      "prix_unitaire": 0.99,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 0.99,
+      "tva_code": null,
+      "categorie": "fruits_legumes"
+    }
+  ]
+}

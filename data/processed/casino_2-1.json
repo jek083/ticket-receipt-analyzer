@@ -1,0 +1,232 @@
+{
+  "fichier_source": "casino_2-1.png",
+  "enseigne": "Casino",
+  "date": null,
+  "total_ticket": 50.45,
+  "total_remises": 3.93,
+  "nombre_articles_ticket": 29,
+  "articles_detectes": 20,
+  "unites_detectees": 29,
+  "articles": [
+    {
+      "article": "OEUFS PPA X6",
+      "rayon": null,
+      "prix_unitaire": 2.81,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 2.81,
+      "tva_code": null,
+      "categorie": "autre"
+    },
+    {
+      "article": "ISEY SKYR FRAM/MYR",
+      "rayon": null,
+      "prix_unitaire": 3.55,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 3.55,
+      "tva_code": null,
+      "categorie": "autre"
+    },
+    {
+      "article": "COMTE 4/6M AOP",
+      "rayon": null,
+      "prix_unitaire": 19.95,
+      "quantite": 1,
+      "poids_kg": 0.212,
+      "prix_kg": 19.95,
+      "prix_total": 4.23,
+      "tva_code": null,
+      "categorie": "autre"
+    },
+    {
+      "article": "CHOUCROUTF. GARNIE",
+      "rayon": null,
+      "prix_unitaire": 3.95,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 3.95,
+      "tva_code": null,
+      "categorie": "autre"
+    },
+    {
+      "article": "PR BRIE PASTEURISE",
+      "rayon": null,
+      "prix_unitaire": 2.2,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 2.2,
+      "tva_code": null,
+      "categorie": "autre"
+    },
+    {
+      "article": "LAIT BK",
+      "rayon": null,
+      "prix_unitaire": 0.89,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 0.89,
+      "tva_code": null,
+      "categorie": "produits_laitiers"
+    },
+    {
+      "article": "DANONE FROM BLANC",
+      "rayon": null,
+      "prix_unitaire": 3.09,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 3.09,
+      "tva_code": null,
+      "categorie": "autre"
+    },
+    {
+      "article": "CAROTTE 750G ORES",
+      "rayon": null,
+      "prix_unitaire": 1.79,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 1.79,
+      "tva_code": null,
+      "categorie": "fruits_legumes"
+    },
+    {
+      "article": "AMPOULE LED E27 BL",
+      "rayon": null,
+      "prix_unitaire": 1.9,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 1.9,
+      "tva_code": null,
+      "categorie": "autre"
+    },
+    {
+      "article": "LOR ESPRESSO OR JA",
+      "rayon": null,
+      "prix_unitaire": 3.21,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 3.21,
+      "tva_code": null,
+      "categorie": "autre"
+    },
+    {
+      "article": "LOR ESPRESSO OR JA",
+      "rayon": null,
+      "prix_unitaire": 3.21,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 3.21,
+      "tva_code": null,
+      "categorie": "autre"
+    },
+    {
+      "article": "TAB.CHOCO NOIR 70",
+      "rayon": null,
+      "prix_unitaire": 0.74,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 0.74,
+      "tva_code": null,
+      "categorie": "autre"
+    },
+    {
+      "article": "02ZA POULET CHEVR",
+      "rayon": null,
+      "prix_unitaire": 2.5,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 2.5,
+      "tva_code": null,
+      "categorie": "viandes"
+    },
+    {
+      "article": "PAVE TS",
+      "rayon": null,
+      "prix_unitaire": 1.79,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 1.79,
+      "tva_code": null,
+      "categorie": "autre"
+    },
+    {
+      "article": "CHANTECLERC",
+      "rayon": null,
+      "prix_unitaire": 2.79,
+      "quantite": 1,
+      "poids_kg": 0.864,
+      "prix_kg": 2.79,
+      "prix_total": 2.41,
+      "tva_code": null,
+      "categorie": "autre"
+    },
+    {
+      "article": "SOJA CHOCO",
+      "rayon": null,
+      "prix_unitaire": 1.89,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 1.89,
+      "tva_code": null,
+      "categorie": "autre"
+    },
+    {
+      "article": "DATTE BRANCH",
+      "rayon": null,
+      "prix_unitaire": 3.69,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 3.69,
+      "tva_code": null,
+      "categorie": "autre"
+    },
+    {
+      "article": "SOJA CHOCO",
+      "rayon": null,
+      "prix_unitaire": 1.89,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 1.89,
+      "tva_code": null,
+      "categorie": "autre"
+    },
+    {
+      "article": "JUS CITR.VERT COBI",
+      "rayon": null,
+      "prix_unitaire": 1.64,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 1.64,
+      "tva_code": null,
+      "categorie": "boissons"
+    },
+    {
+      "article": "KIWIS",
+      "rayon": null,
+      "prix_unitaire": 0.7,
+      "quantite": 10,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 7.0,
+      "tva_code": null,
+      "categorie": "fruits_legumes"
+    }
+  ]
+}

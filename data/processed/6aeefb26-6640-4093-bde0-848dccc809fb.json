@@ -1,0 +1,100 @@
+{
+  "fichier_source": "6aeefb26-6640-4093-bde0-848dccc809fb.pdf",
+  "enseigne": "Picard",
+  "date": "2027-01-31",
+  "total_ticket": 29.7,
+  "total_remises": 7.64,
+  "nombre_articles_ticket": 8,
+  "articles_detectes": 8,
+  "unites_detectees": 8,
+  "articles": [
+    {
+      "article": "Crevette SJacq",
+      "rayon": "SURGELES",
+      "prix_unitaire": 6.5,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 6.5,
+      "tva_code": null,
+      "categorie": null
+    },
+    {
+      "article": "Saum épice,riz",
+      "rayon": "SURGELES",
+      "prix_unitaire": 4.99,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 4.99,
+      "tva_code": null,
+      "categorie": "epicerie"
+    },
+    {
+      "article": "Epinards bio",
+      "rayon": "SURGELES",
+      "prix_unitaire": 2.9,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 2.9,
+      "tva_code": null,
+      "categorie": "fruits_legumes"
+    },
+    {
+      "article": "Gl Amarena It",
+      "rayon": "SURGELES",
+      "prix_unitaire": 2.99,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 2.99,
+      "tva_code": null,
+      "categorie": "glaces"
+    },
+    {
+      "article": "Façon cappuccino",
+      "rayon": "SURGELES",
+      "prix_unitaire": 2.99,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 2.99,
+      "tva_code": null,
+      "categorie": null
+    },
+    {
+      "article": "M.cheeseburger",
+      "rayon": "SURGELES",
+      "prix_unitaire": 6.99,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 6.99,
+      "tva_code": null,
+      "categorie": null
+    },
+    {
+      "article": "Poêlé asp/mor",
+      "rayon": "SURGELES",
+      "prix_unitaire": 6.99,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 6.99,
+      "tva_code": null,
+      "categorie": null
+    },
+    {
+      "article": "Gnocchi aux cèpe",
+      "rayon": "SURGELES",
+      "prix_unitaire": 2.99,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 2.99,
+      "tva_code": null,
+      "categorie": null
+    }
+  ]
+}

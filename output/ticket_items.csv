@@ -1,0 +1,259 @@
+﻿article;date;rayon;prix_unitaire;quantite;poids_kg;prix_kg;prix_total;enseigne;tva_code;categorie;fichier_source;total_ticket;total_remises;nombre_articles_ticket;unites_detectees
+KALAMATA HUILE OLT;2024-06-14 18:37;;12.73;1;;;12.73;Auchan;;epicerie;ticket_Auchan.png;52.18;;12;12
+POUCE VINAÏGRE ALC;2024-06-14 18:37;;0.48;1;;;0.48;Auchan;;boissons;ticket_Auchan.png;52.18;;12;12
+COSMIA BRUMISATEUR;2024-06-14 18:37;;1.36;1;;;1.36;Auchan;;autre;ticket_Auchan.png;52.18;;12;12
+RAINETT VAISELLE MA;2024-06-14 18:37;;2.10;1;;;2.10;Auchan;;epicerie;ticket_Auchan.png;52.18;;12;12
+AUCHAN PAELLA 350G;2024-06-14 18:37;;4.79;1;;;4.79;Auchan;;autre;ticket_Auchan.png;52.18;;12;12
+AUCHAN GAZPACHO 1L;2024-06-14 18:37;;2.99;1;;;2.99;Auchan;;autre;ticket_Auchan.png;52.18;;12;12
+BROUSSE DAT MEDUOG;2024-06-14 18:37;;9.49;1;;;9.49;Auchan;;autre;ticket_Auchan.png;52.18;;12;12
+NINKASI BIERE BLOND;2024-06-14 18:37;;4.79;1;;;4.79;Auchan;;autre;ticket_Auchan.png;52.18;;12;12
+AUCHAN TORTILLA OT;2024-06-14 18:37;;3.79;1;;;3.79;Auchan;;autre;ticket_Auchan.png;52.18;;12;12
+TROPIC OLIV VERT 0;2024-06-14 18:37;;2.84;1;;;2.84;Auchan;;autre;ticket_Auchan.png;52.18;;12;12
+LINDOR NOIR 70% 1506;2024-06-14 18:37;;2.83;1;;;2.83;Auchan;;autre;ticket_Auchan.png;52.18;;12;12
+FRATSE 5000;2024-06-14 18:37;;3.99;1;;;3.99;Auchan;;autre;ticket_Auchan.png;52.18;;12;12
+BOND PUREE DELICE VE;2025-10-16 18:40;;3.53;1;;;3.53;Intermarché;A;fruits_legumes;80726a6b-c09b-4529-bf29-0395e2ae60bd.pdf;44.32;1.41;22;22
+BOND.EPINAR.SS RESID;2025-10-16 18:40;;2.30;1;;;2.30;Intermarché;A;autre;80726a6b-c09b-4529-bf29-0395e2ae60bd.pdf;44.32;1.41;22;22
+ROQUETTE BARQUETTE 1;2025-10-16 18:40;;1.29;1;;;1.29;Intermarché;A;autre;80726a6b-c09b-4529-bf29-0395e2ae60bd.pdf;44.32;1.41;22;22
+CASSEGRAIN FL.VERT E;2025-10-16 18:40;;1.91;1;;;1.91;Intermarché;A;autre;80726a6b-c09b-4529-bf29-0395e2ae60bd.pdf;44.32;1.41;22;22
+CASSEGRAIN POIS/PROV;2025-10-16 18:40;;3.52;1;;;3.52;Intermarché;A;autre;80726a6b-c09b-4529-bf29-0395e2ae60bd.pdf;44.32;1.41;22;22
+CASSEG HT PLAT PROVE;2025-10-16 18:40;;3.67;1;;;3.67;Intermarché;A;autre;80726a6b-c09b-4529-bf29-0395e2ae60bd.pdf;44.32;1.41;22;22
+TEISSEIRE SRP GRENAD;2025-10-16 18:40;;2.26;1;;;2.26;Intermarché;A;autre;80726a6b-c09b-4529-bf29-0395e2ae60bd.pdf;44.32;1.41;22;22
+ENDIVE SACHET 650G;2025-10-16 18:40;;1.99;1;;;1.99;Intermarché;A;autre;80726a6b-c09b-4529-bf29-0395e2ae60bd.pdf;44.32;1.41;22;22
+ODYSSEE THON ALB TRC;2025-10-16 18:40;;3.83;1;;;3.83;Intermarché;A;autre;80726a6b-c09b-4529-bf29-0395e2ae60bd.pdf;44.32;1.41;22;22
+PAT YRT GRECQ S/FRT;2025-10-16 18:40;;2.01;1;;;2.01;Intermarché;A;autre;80726a6b-c09b-4529-bf29-0395e2ae60bd.pdf;44.32;1.41;22;22
+PAT YRT GRECQ S/FRT;2025-10-16 18:40;;2.01;1;;;2.01;Intermarché;A;autre;80726a6b-c09b-4529-bf29-0395e2ae60bd.pdf;44.32;1.41;22;22
+PAT SKYR MYRTILLE 45;2025-10-16 18:40;;2.89;1;;;2.89;Intermarché;A;autre;80726a6b-c09b-4529-bf29-0395e2ae60bd.pdf;44.32;1.41;22;22
+FE P&C JBN CUIT AC L;2025-10-16 18:40;;2.08;1;;;2.08;Intermarché;A;autre;80726a6b-c09b-4529-bf29-0395e2ae60bd.pdf;44.32;1.41;22;22
+FE COMTE AOP 10 MOIS;2025-10-16 18:40;;4.91;1;;;4.91;Intermarché;A;autre;80726a6b-c09b-4529-bf29-0395e2ae60bd.pdf;44.32;1.41;22;22
+RAISIN BLANC CHASSEL;2025-10-16 18:40;;3.24;1;;;3.24;Intermarché;A;epicerie;80726a6b-c09b-4529-bf29-0395e2ae60bd.pdf;44.32;1.41;22;22
+CONCOMBRE PIECE;2025-10-16 18:40;;0.99;1;;;0.99;Intermarché;A;autre;80726a6b-c09b-4529-bf29-0395e2ae60bd.pdf;44.32;1.41;22;22
+KIWI VERT PIECE;2025-10-16 18:40;;0.55;6;;;3.30;Intermarché;A;fruits_legumes;80726a6b-c09b-4529-bf29-0395e2ae60bd.pdf;44.32;1.41;22;22
+BQ P SAUM AP FOC;2025-11-08;Alimentaire;6.59;1;;;6.59;Carrefour;4;autre;ticket_Carrefour.png;54.44;0.47;14;14
+CAROTTE 1 5KG FAC;2025-11-08;Alimentaire;2.29;1;;;2.29;Carrefour;4;fruits_legumes;ticket_Carrefour.png;54.44;0.47;14;14
+CREV 25/35;2025-11-08;Alimentaire;4.99;1;;;4.99;Carrefour;4;autre;ticket_Carrefour.png;54.44;0.47;14;14
+KIWI VERT PIECE;2025-11-08;Alimentaire;0.59;4;;;2.36;Carrefour;4;fruits_legumes;ticket_Carrefour.png;54.44;0.47;14;14
+NOIX SECH. RDF ikG;2025-11-08;Alimentaire;8.15;1;;;8.15;Carrefour;4;autre;ticket_Carrefour.png;54.44;0.47;14;14
+750G PURE PATAT. DO;2025-11-08;Alimentaire;2.99;1;;;2.99;Carrefour;4;autre;ticket_Carrefour.png;54.44;0.47;14;14
+BAGUETINE CAMP FQC;2025-11-08;Alimentaire;0.85;1;;;0.85;Carrefour;4;autre;ticket_Carrefour.png;54.44;0.47;14;14
+MANGUE PIECE;2025-11-08;Alimentaire;1.99;1;;;1.99;Carrefour;4;autre;ticket_Carrefour.png;54.44;0.47;14;14
+RTE MCHRS ECOPLANE;2025-11-08;Entretien Hys-BeautÜ;1.65;1;;;1.65;Carrefour;6;autre;ticket_Carrefour.png;54.44;0.47;14;14
+A00ML INSECTIC.ANT;2025-11-08;Entretien Hys-BeautÜ;2.15;1;;;2.15;Carrefour;6;autre;ticket_Carrefour.png;54.44;0.47;14;14
+BOSCH BEG ADAPT EN;2025-11-08;Non Alimentaire;20.90;1;;;20.90;Carrefour;6;autre;ticket_Carrefour.png;54.44;0.47;14;14
+HAPPY COLA PIK 200G;2025-12-06;EPICERIE;1.80;1;;;1.80;S.A.S AUREDIS;3;autre;Leclerc_20251206_ticket-de-caisse.pdf;111.45;;35;27
+CORN FLAKES;2025-12-06;EPICERIE;3.60;1;;;3.60;S.A.S AUREDIS;1;autre;Leclerc_20251206_ticket-de-caisse.pdf;111.45;;35;27
+LAIT 1/2 ECR.DELACTOSE 1L BOUT;2025-12-06;EPICERIE;1.25;2;;;2.59;S.A.S AUREDIS;1;produits_laitiers;Leclerc_20251206_ticket-de-caisse.pdf;111.45;;35;27
+HUILE COLZA 75CL BIO VILLAGE;2025-12-06;EPICERIE;3.79;1;;;3.79;S.A.S AUREDIS;1;epicerie;Leclerc_20251206_ticket-de-caisse.pdf;111.45;;35;27
+TSR GRENADINE 6@ CL NEW;2025-12-06;LIQUIDES;2.28;1;;;2.28;S.A.S AUREDIS;1;autre;Leclerc_20251206_ticket-de-caisse.pdf;111.45;;35;27
+2 X @.58€;2025-12-06;LIQUIDES;1.16;1;;;1.16;S.A.S AUREDIS;1;autre;Leclerc_20251206_ticket-de-caisse.pdf;111.45;;35;27
+PILSNER URQUELL 33CL (;2025-12-06;LIQUIDES;1.26;2;;;2.52;S.A.S AUREDIS;3;autre;Leclerc_20251206_ticket-de-caisse.pdf;111.45;;35;27
+ALUMINIUM GAUFRE ALFAPAC 20M;2025-12-06;DROGUERIE;2.98;1;;;2.98;S.A.S AUREDIS;3;autre;Leclerc_20251206_ticket-de-caisse.pdf;111.45;;35;27
+MANGUE;2025-12-06;FRUITS ET LEGUMES;1.99;1;;;1.99;S.A.S AUREDIS;1;autre;Leclerc_20251206_ticket-de-caisse.pdf;111.45;;35;27
+CAROTTE SACHET 2 KG CAMARGUE;2025-12-06;FRUITS ET LEGUMES;1.39;1;;;1.39;S.A.S AUREDIS;1;fruits_legumes;Leclerc_20251206_ticket-de-caisse.pdf;111.45;;35;27
+BIO CONCOMBRE 3/4;2025-12-06;FRUITS ET LEGUMES;1.99;2;;;3.98;S.A.S AUREDIS;1;autre;Leclerc_20251206_ticket-de-caisse.pdf;111.45;;35;27
+GRATIN DAUPHINOIS CHAMPIGNONS;2025-12-06;VOLAILLES;4.44;1;;;4.44;S.A.S AUREDIS;1;autre;Leclerc_20251206_ticket-de-caisse.pdf;111.45;;35;27
+POULET FERMIER;2025-12-06;VOLAILLES;11.95;1;;;11.95;S.A.S AUREDIS;1;viandes;Leclerc_20251206_ticket-de-caisse.pdf;111.45;;35;27
+HOL M GOUDA VIEUX AOP 1/2M 4,9K;2025-12-06;CREMERIE;5.03;1;;;5.03;S.A.S AUREDIS;1;autre;Leclerc_20251206_ticket-de-caisse.pdf;111.45;;35;27
+12 OEUFS LOUE LR FERMIERS MOY;2025-12-06;CREMERIE;4.11;1;;;4.11;S.A.S AUREDIS;1;autre;Leclerc_20251206_ticket-de-caisse.pdf;111.45;;35;27
+YAOURT BREBIS CITRON 4X125G MR;2025-12-06;CREMERIE;2.39;1;;;2.39;S.A.S AUREDIS;1;produits_laitiers;Leclerc_20251206_ticket-de-caisse.pdf;111.45;;35;27
+BEURRE DOUX BIO 82%MG 25@G MR;2025-12-06;CREMERIE;3.03;1;;;3.03;S.A.S AUREDIS;1;produits_laitiers;Leclerc_20251206_ticket-de-caisse.pdf;111.45;;35;27
+SKYR 450G MYRTILLE;2025-12-06;CREMERIE;3.17;1;;;3.17;S.A.S AUREDIS;1;autre;Leclerc_20251206_ticket-de-caisse.pdf;111.45;;35;27
+PAD THAI CREVETTES SCE SOJA;2025-12-06;CHARCUTERIE LS TRAITEUR LS;3.05;1;;;3.05;S.A.S AUREDIS;1;autre;Leclerc_20251206_ticket-de-caisse.pdf;111.45;;35;27
+RISOTTO ST JACQUES POIREAUX;2025-12-06;CHARCUTERIE LS TRAITEUR LS;3.78;1;;;3.78;S.A.S AUREDIS;1;fruits_legumes;Leclerc_20251206_ticket-de-caisse.pdf;111.45;;35;27
+PTES GAMBAS CURR COCO RIZ CUIS;2025-12-06;SAURISSERIE;3.86;1;;;3.86;S.A.S AUREDIS;1;epicerie;Leclerc_20251206_ticket-de-caisse.pdf;111.45;;35;27
+SEMELLE CARBON ACTIV;2025-12-06;TEXTILE;4.20;1;;;4.20;S.A.S AUREDIS;3;autre;Leclerc_20251206_ticket-de-caisse.pdf;111.45;;35;27
+SEM 1/2 FINE CUIR 44/45;2025-12-06;TEXTILE;6.80;1;;;6.80;S.A.S AUREDIS;3;autre;Leclerc_20251206_ticket-de-caisse.pdf;111.45;;35;27
+PAVE NORDIQUE TRANCHE;2025-12-06;BVP;2.55;1;;;2.55;S.A.S AUREDIS;1;autre;Leclerc_20251206_ticket-de-caisse.pdf;111.45;;35;27
+COUSCOUS PETIT EPEAU;2026-05-02 10:32;;4.49;1;;;4.49;Marcel&Fils;5.5%;boissons;Marcel&Fils_20260502.png;48.39;;;11
+RIZ DE CAMARGUES BLA;2026-05-02 10:32;;2.85;1;;;2.85;Marcel&Fils;5.5%;epicerie;Marcel&Fils_20260502.png;48.39;;;11
+COUSCOUS MAIS RIZ ET;2026-05-02 10:32;;4.69;1;;;4.69;Marcel&Fils;5.5%;epicerie;Marcel&Fils_20260502.png;48.39;;;11
+FL MYRTILLE BARQUETT;2026-05-02 10:32;;2.59;1;;;2.59;Marcel&Fils;5.5%;autre;Marcel&Fils_20260502.png;48.39;;;11
+FL FRAMBOISE BARQUET;2026-05-02 10:32;;2.99;1;;;2.99;Marcel&Fils;5.5%;fruits_legumes;Marcel&Fils_20260502.png;48.39;;;11
+FL CONCOMBRE LONG;2026-05-02 10:32;;1.69;1;;;1.69;Marcel&Fils;5.5%;autre;Marcel&Fils_20260502.png;48.39;;;11
+THE VERT JASMIN'T 10;2026-05-02 10:32;;7.95;1;;;7.95;Marcel&Fils;5.5%;autre;Marcel&Fils_20260502.png;48.39;;;11
+THE VERT PARFUM IRAN;2026-05-02 10:32;;8.50;1;;;8.50;Marcel&Fils;5.5%;autre;Marcel&Fils_20260502.png;48.39;;;11
+YERBA MATE EQUITABLE;2026-05-02 10:32;;4.40;1;;;4.40;Marcel&Fils;5.5%;autre;Marcel&Fils_20260502.png;48.39;;;11
+AMANDES COMPLETES DE;2026-05-02 10:32;;6.75;1;;;6.75;Marcel&Fils;5.5%;autre;Marcel&Fils_20260502.png;48.39;;;11
+FL MANGUE AMELIE i it;2026-05-02 10:32;;1.49;1;;;1.49;Marcel&Fils;5.5%;autre;Marcel&Fils_20260502.png;48.39;;;11
+AOP CDR VLG RG EXP.C;2026-07-01 18:57;;13.40;1;;;13.40;Intermarché;B;autre;c4b6b236-3e64-4bb2-9f56-b5283d208dfe.pdf;115.34;7.26;40;40
+OKAY ET ADAPT X3 BLA;2026-07-01 18:57;;2.61;1;;;2.61;Intermarché;B;autre;c4b6b236-3e64-4bb2-9f56-b5283d208dfe.pdf;115.34;7.26;40;40
+REGAINBIO AMANDE LEG;2026-07-01 18:57;;1.55;1;;;1.55;Intermarché;A;autre;c4b6b236-3e64-4bb2-9f56-b5283d208dfe.pdf;115.34;7.26;40;40
+BJ.BOIS.VEG.AMANDE N;2026-07-01 18:57;;3.04;1;;;3.04;Intermarché;A;autre;c4b6b236-3e64-4bb2-9f56-b5283d208dfe.pdf;115.34;7.26;40;40
+PAT VEG BOISSON AMAN;2026-07-01 18:57;;1.91;1;;;1.91;Intermarché;A;autre;c4b6b236-3e64-4bb2-9f56-b5283d208dfe.pdf;115.34;7.26;40;40
+PAT FF NATURE 3,2%MG;2026-07-01 18:57;;1.79;1;;;1.79;Intermarché;A;autre;c4b6b236-3e64-4bb2-9f56-b5283d208dfe.pdf;115.34;7.26;40;40
+CAPRICE DES DIEUX 30;2026-07-01 18:57;;3.60;1;;;3.60;Intermarché;A;autre;c4b6b236-3e64-4bb2-9f56-b5283d208dfe.pdf;115.34;7.26;40;40
+LEERDAMMER PORTION 3;2026-07-01 18:57;;5;1;;;5;Intermarché;A;autre;c4b6b236-3e64-4bb2-9f56-b5283d208dfe.pdf;115.34;7.26;40;40
+LEERDAMMER PORTION 3;2026-07-01 18:57;;5;1;;;5;Intermarché;A;autre;c4b6b236-3e64-4bb2-9f56-b5283d208dfe.pdf;115.34;7.26;40;40
+AND.BRASSE VEGETAL P;2026-07-01 18:57;;2.96;1;;;2.96;Intermarché;A;autre;c4b6b236-3e64-4bb2-9f56-b5283d208dfe.pdf;115.34;7.26;40;40
+AND.BRASSE VEGETAL F;2026-07-01 18:57;;2.86;1;;;2.86;Intermarché;A;autre;c4b6b236-3e64-4bb2-9f56-b5283d208dfe.pdf;115.34;7.26;40;40
+PAT YRT GRECQ NAT 4X;2026-07-01 18:57;;1.29;1;;;1.29;Intermarché;A;autre;c4b6b236-3e64-4bb2-9f56-b5283d208dfe.pdf;115.34;7.26;40;40
+PAT SKYR MYRTILLE 45;2026-07-01 18:57;;2.79;1;;;2.79;Intermarché;A;autre;c4b6b236-3e64-4bb2-9f56-b5283d208dfe.pdf;115.34;7.26;40;40
+PAT YRT GRECQ NAT 4X;2026-07-01 18:57;;1.29;1;;;1.29;Intermarché;A;autre;c4b6b236-3e64-4bb2-9f56-b5283d208dfe.pdf;115.34;7.26;40;40
+PAT YRT GRECQ NAT 4X;2026-07-01 18:57;;1.29;1;;;1.29;Intermarché;A;autre;c4b6b236-3e64-4bb2-9f56-b5283d208dfe.pdf;115.34;7.26;40;40
+ENTREMONT COMTE FRUI;2026-07-01 18:57;;4.01;1;;;4.01;Intermarché;A;autre;c4b6b236-3e64-4bb2-9f56-b5283d208dfe.pdf;115.34;7.26;40;40
+PAT YRT BIO CITRON 4;2026-07-01 18:57;;1.44;1;;;1.44;Intermarché;A;autre;c4b6b236-3e64-4bb2-9f56-b5283d208dfe.pdf;115.34;7.26;40;40
+FM BLC PLT ROTI 4T 1;2026-07-01 18:57;;1.70;1;;;1.70;Intermarché;A;autre;c4b6b236-3e64-4bb2-9f56-b5283d208dfe.pdf;115.34;7.26;40;40
+FM FINES BLANC POULE;2026-07-01 18:57;;2.33;1;;;2.33;Intermarché;A;autre;c4b6b236-3e64-4bb2-9f56-b5283d208dfe.pdf;115.34;7.26;40;40
+RANOU JBON PARIS DD;2026-07-01 18:57;;4.34;1;;;4.34;Intermarché;A;autre;c4b6b236-3e64-4bb2-9f56-b5283d208dfe.pdf;115.34;7.26;40;40
+RANOU JBON PARIS DD;2026-07-01 18:57;;4.34;1;;;4.34;Intermarché;A;autre;c4b6b236-3e64-4bb2-9f56-b5283d208dfe.pdf;115.34;7.26;40;40
+RANOU JBON PARIS DD;2026-07-01 18:57;;4.34;1;;;4.34;Intermarché;A;autre;c4b6b236-3e64-4bb2-9f56-b5283d208dfe.pdf;115.34;7.26;40;40
+PATURETTE CHOCO NOIR;2026-07-01 18:57;;1;1;;;1;Intermarché;A;autre;c4b6b236-3e64-4bb2-9f56-b5283d208dfe.pdf;115.34;7.26;40;40
+DANETTE CHOCO NOIR E;2026-07-01 18:57;;1.61;1;;;1.61;Intermarché;A;autre;c4b6b236-3e64-4bb2-9f56-b5283d208dfe.pdf;115.34;7.26;40;40
+DANETTE CHOCO NOIR E;2026-07-01 18:57;;1.61;1;;;1.61;Intermarché;A;autre;c4b6b236-3e64-4bb2-9f56-b5283d208dfe.pdf;115.34;7.26;40;40
+PATURAGES BUCHE STE;2026-07-01 18:57;;2.99;1;;;2.99;Intermarché;A;autre;c4b6b236-3e64-4bb2-9f56-b5283d208dfe.pdf;115.34;7.26;40;40
+PRIMEVERE TART/CUIS;2026-07-01 18:57;;2.19;1;;;2.19;Intermarché;B;autre;c4b6b236-3e64-4bb2-9f56-b5283d208dfe.pdf;115.34;7.26;40;40
+MARTINET CAROT.RAPE;2026-07-01 18:57;;2.19;1;;;2.19;Intermarché;A;autre;c4b6b236-3e64-4bb2-9f56-b5283d208dfe.pdf;115.34;7.26;40;40
+MART.TABOULE ORIENT.;2026-07-01 18:57;;2.09;1;;;2.09;Intermarché;A;autre;c4b6b236-3e64-4bb2-9f56-b5283d208dfe.pdf;115.34;7.26;40;40
+ST ELOI CHAMP.EMINCE;2026-07-01 18:57;;1.07;1;;;1.07;Intermarché;A;autre;c4b6b236-3e64-4bb2-9f56-b5283d208dfe.pdf;115.34;7.26;40;40
+CASSEG.AUBER.CUIS.P;2026-07-01 18:57;;5.68;1;;;5.68;Intermarché;A;autre;c4b6b236-3e64-4bb2-9f56-b5283d208dfe.pdf;115.34;7.26;40;40
+PN THON ENTIER H.OLV;2026-07-01 18:57;;3.83;1;;;3.83;Intermarché;A;autre;c4b6b236-3e64-4bb2-9f56-b5283d208dfe.pdf;115.34;7.26;40;40
+ODYSSEE THON ALB TRC;2026-07-01 18:57;;4.03;1;;;4.03;Intermarché;A;autre;c4b6b236-3e64-4bb2-9f56-b5283d208dfe.pdf;115.34;7.26;40;40
+MERCI OEUFS PLEIN AI;2026-07-01 18:57;;1.65;1;;;1.65;Intermarché;A;autre;c4b6b236-3e64-4bb2-9f56-b5283d208dfe.pdf;115.34;7.26;40;40
+VOLAE 18 OEUFS PPA M;2026-07-01 18:57;;4.50;1;;;4.50;Intermarché;A;autre;c4b6b236-3e64-4bb2-9f56-b5283d208dfe.pdf;115.34;7.26;40;40
+CASSEG.COUR.CUIS.PR;2026-07-01 18:57;;5.68;1;;;5.68;Intermarché;A;autre;c4b6b236-3e64-4bb2-9f56-b5283d208dfe.pdf;115.34;7.26;40;40
+CASSEG.RATAT.CUIS.P;2026-07-01 18:57;;5.68;1;;;5.68;Intermarché;A;autre;c4b6b236-3e64-4bb2-9f56-b5283d208dfe.pdf;115.34;7.26;40;40
+GINGEMBRE VRAC;2026-07-01 18:57;;5.99;1;0.194;5.99;1.16;Intermarché;A;autre;c4b6b236-3e64-4bb2-9f56-b5283d208dfe.pdf;115.34;7.26;40;40
+PECHE BLANCHE VRAC S;2026-07-01 18:57;;2.49;1;0.620;2.49;1.54;Intermarché;A;autre;c4b6b236-3e64-4bb2-9f56-b5283d208dfe.pdf;115.34;7.26;40;40
+PECHE JAUNE VRAC STA;2026-07-01 18:57;;2.49;1;0.490;2.49;1.22;Intermarché;A;autre;c4b6b236-3e64-4bb2-9f56-b5283d208dfe.pdf;115.34;7.26;40;40
+VITTEL EAU MINE.PET;2026-08-25 19:13;;0.43;1;;;0.43;Intermarché;A;boissons;2986d8cc-b05a-4b76-8952-6aeccc0b094b.pdf;29.95;;13;13
+ST YORRE EAU M.GAZ 6;2026-08-25 19:13;;0.56;1;;;0.56;Intermarché;A;boissons;2986d8cc-b05a-4b76-8952-6aeccc0b094b.pdf;29.95;;13;13
+SKYR FRAISE 450G;2026-08-25 19:13;;2.69;1;;;2.69;Intermarché;A;fruits_legumes;2986d8cc-b05a-4b76-8952-6aeccc0b094b.pdf;29.95;;13;13
+ALVALLE GAZPACHO 1L;2026-08-25 19:13;;3.55;1;;;3.55;Intermarché;A;autre;2986d8cc-b05a-4b76-8952-6aeccc0b094b.pdf;29.95;;13;13
+FE GRUYERE IGP FRANC;2026-08-25 19:13;;3.60;1;;;3.60;Intermarché;A;autre;2986d8cc-b05a-4b76-8952-6aeccc0b094b.pdf;29.95;;13;13
+FE PPX BRIE PASTEURI;2026-08-25 19:13;;2.45;1;;;2.45;Intermarché;A;autre;2986d8cc-b05a-4b76-8952-6aeccc0b094b.pdf;29.95;;13;13
+LESIEUR MAYONNAISE T;2026-08-25 19:13;;0.82;1;;;0.82;Intermarché;A;autre;2986d8cc-b05a-4b76-8952-6aeccc0b094b.pdf;29.95;;13;13
+APTA EPGES GRAT. SYN;2026-08-25 19:13;;1.13;1;;;1.13;Intermarché;B;autre;2986d8cc-b05a-4b76-8952-6aeccc0b094b.pdf;29.95;;13;13
+GRESSINS ROMARIN;2026-08-25 19:13;;2.79;1;;;2.79;Intermarché;A;autre;2986d8cc-b05a-4b76-8952-6aeccc0b094b.pdf;29.95;;13;13
+MELON PIECE;2026-08-25 19:13;;2.49;1;;;2.49;Intermarché;A;autre;2986d8cc-b05a-4b76-8952-6aeccc0b094b.pdf;29.95;;13;13
+CONCOMBRE PIECE;2026-08-25 19:13;;1.89;1;;;1.89;Intermarché;A;autre;2986d8cc-b05a-4b76-8952-6aeccc0b094b.pdf;29.95;;13;13
+LA NVL AGRI.12 OEUFS;2026-08-25 19:13;;4;1;;;4;Intermarché;A;autre;2986d8cc-b05a-4b76-8952-6aeccc0b094b.pdf;29.95;;13;13
+LVZ 10 CAPSULES NAP;2026-08-25 19:13;;3.55;1;;;3.55;Intermarché;A;autre;2986d8cc-b05a-4b76-8952-6aeccc0b094b.pdf;29.95;;13;13
+BOND TABOULE ORIENTA;2026-09-01 18:32;;1.41;1;;;1.41;Intermarché;A;autre;a4c594b9-6174-434a-a01a-474cd6b6f7ee.pdf;29.30;;14;14
+ESPADRILLE;2026-09-01 18:32;;10.99;1;;;10.99;Intermarché;B;autre;a4c594b9-6174-434a-a01a-474cd6b6f7ee.pdf;29.30;;14;14
+P&C PAIN NORDIQUE PR;2026-09-01 18:32;;1.55;1;;;1.55;Intermarché;A;boulangerie;a4c594b9-6174-434a-a01a-474cd6b6f7ee.pdf;29.30;;14;14
+ADELIE BAC CAFE 500G;2026-09-01 18:32;;2.17;1;;;2.17;Intermarché;A;autre;a4c594b9-6174-434a-a01a-474cd6b6f7ee.pdf;29.30;;14;14
+BOND PUREE DELICE VE;2026-09-01 18:32;;2.90;1;;;2.90;Intermarché;A;fruits_legumes;a4c594b9-6174-434a-a01a-474cd6b6f7ee.pdf;29.30;;14;14
+BOND PUREE DUO DOUCE;2026-09-01 18:32;;2.90;1;;;2.90;Intermarché;A;fruits_legumes;a4c594b9-6174-434a-a01a-474cd6b6f7ee.pdf;29.30;;14;14
+KIWI VERT PIECE;2026-09-01 18:32;;0.59;5;;;2.95;Intermarché;A;fruits_legumes;a4c594b9-6174-434a-a01a-474cd6b6f7ee.pdf;29.30;;14;14
+FIEE DES LOIS E.SOUR;2026-09-01 18:32;;0.30;1;;;0.30;Intermarché;A;autre;a4c594b9-6174-434a-a01a-474cd6b6f7ee.pdf;29.30;;14;14
+IDS PARMIGIANO REGGI;2026-09-01 18:32;;1.19;1;;;1.19;Intermarché;A;autre;a4c594b9-6174-434a-a01a-474cd6b6f7ee.pdf;29.30;;14;14
+GRESS.RUBATA' SESAME;2026-09-01 18:32;;2.94;1;;;2.94;Intermarché;A;autre;a4c594b9-6174-434a-a01a-474cd6b6f7ee.pdf;29.30;;14;14
+Mélange de graines;2026-09-14 18:49;;3.59;2;;;7.18;Lidl;A;autre;Lidl_20260911.png;29.66;2.38;13;19
+Kiwi;2026-09-14 18:49;;0.59;6;;;3.54;Lidl;;fruits_legumes;Lidl_20260911.png;29.66;2.38;13;19
+Spécialités lait lat;2026-09-14 18:49;;1.98;1;;;1.98;Lidl;A;produits_laitiers;Lidl_20260911.png;29.66;2.38;13;19
+Spécialités lait kir;2026-09-14 18:49;;1.98;1;;;1.98;Lidl;A;produits_laitiers;Lidl_20260911.png;29.66;2.38;13;19
+Boisson au soja Bio;2026-09-14 18:49;;0.88;1;;;0.88;Lidl;A;autre;Lidl_20260911.png;29.66;2.38;13;19
+Lait délactosé;2026-09-14 18:49;;1.25;1;;;1.25;Lidl;;produits_laitiers;Lidl_20260911.png;29.66;2.38;13;19
+Tubes qui piquent;2026-09-14 18:49;;1.13;1;;;1.13;Lidl;B;autre;Lidl_20260911.png;29.66;2.38;13;19
+Raisins secs;2026-09-14 18:49;;1.95;1;;;1.95;Lidl;A;autre;Lidl_20260911.png;29.66;2.38;13;19
+Chocolat noir 85% ca;2026-09-14 18:49;;3.74;1;;;3.74;Lidl;A;autre;Lidl_20260911.png;29.66;2.38;13;19
+Oeufs Bio;2026-09-14 18:49;;3.41;1;;;3.41;Lidl;;autre;Lidl_20260911.png;29.66;2.38;13;19
+Jeune pousse end;2026-09-14 18:49;;2.49;1;;;2.49;Lidl;;autre;Lidl_20260911.png;29.66;2.38;13;19
+Banane Bio Fairtrade tft;2026-09-14 18:49;;2.09;1;0.726;2.09;1.52;Lidl;;fruits_legumes;Lidl_20260911.png;29.66;2.38;13;19
+Pomme 4 fruits;2026-09-14 18:49;;0.99;1;;;0.99;Lidl;;fruits_legumes;Lidl_20260911.png;29.66;2.38;13;19
+FM CHILI CON CARNE&R;2026-09-15 18:40;;3.33;1;;;3.33;Intermarché;A;autre;df34c9dc-4820-432e-8cb3-d0c1325a50ed.pdf;25.62;4.01;9;9
+MERCI FROMAGE BLANC;2026-09-15 18:40;;2.09;1;;;2.09;Intermarché;A;produits_laitiers;df34c9dc-4820-432e-8cb3-d0c1325a50ed.pdf;25.62;4.01;9;9
+RAISIN NOIR MUSCAT V;2026-09-15 18:40;;3.01;1;;;3.01;Intermarché;A;autre;df34c9dc-4820-432e-8cb3-d0c1325a50ed.pdf;25.62;4.01;9;9
+BOND PUREE DUO DOUCE;2026-09-15 18:40;;3.55;1;;;3.55;Intermarché;A;fruits_legumes;df34c9dc-4820-432e-8cb3-d0c1325a50ed.pdf;25.62;4.01;9;9
+STARB.RISTRETTO SHOT;2026-09-15 18:40;;4.01;1;;;4.01;Intermarché;A;autre;df34c9dc-4820-432e-8cb3-d0c1325a50ed.pdf;25.62;4.01;9;9
+STARBUCKS NESPRESSO;2026-09-15 18:40;;4.13;1;;;4.13;Intermarché;A;autre;df34c9dc-4820-432e-8cb3-d0c1325a50ed.pdf;25.62;4.01;9;9
+STARB.NES.ESPRES.ROA;2026-09-15 18:40;;4.22;1;;;4.22;Intermarché;A;autre;df34c9dc-4820-432e-8cb3-d0c1325a50ed.pdf;25.62;4.01;9;9
+P&C PAIN CAMPAGNARD;2026-09-15 18:40;;1.69;1;;;1.69;Intermarché;A;boulangerie;df34c9dc-4820-432e-8cb3-d0c1325a50ed.pdf;25.62;4.01;9;9
+FE GRUYERE IGP FRANC;2026-09-15 18:40;;3.60;1;;;3.60;Intermarché;A;autre;df34c9dc-4820-432e-8cb3-d0c1325a50ed.pdf;25.62;4.01;9;9
+P&C BAG CONSTANCE CE;2026-09-29 18:40;;1.05;1;;;1.05;Intermarché;A;autre;2addab31-13a2-4789-a308-129be8c74050.pdf;31.22;;20;20
+DUCROS HERBE PROVENC;2026-09-29 18:40;;3.75;1;;;3.75;Intermarché;A;autre;2addab31-13a2-4789-a308-129be8c74050.pdf;31.22;;20;20
+SCOT ADH MULTIREPAR;2026-09-29 18:40;;7.05;1;;;7.05;Intermarché;B;autre;2addab31-13a2-4789-a308-129be8c74050.pdf;31.22;;20;20
+FE ITM JBN CT AC LR;2026-09-29 18:40;;1.87;1;;;1.87;Intermarché;A;autre;2addab31-13a2-4789-a308-129be8c74050.pdf;31.22;;20;20
+SIGN.DENT CHARBON DE;2026-09-29 18:40;;1.71;1;;;1.71;Intermarché;B;autre;2addab31-13a2-4789-a308-129be8c74050.pdf;31.22;;20;20
+APTA CARRE VAISSELLE;2026-09-29 18:40;;1.35;1;;;1.35;Intermarché;B;epicerie;2addab31-13a2-4789-a308-129be8c74050.pdf;31.22;;20;20
+ST L SUCRE POUDRE BV;2026-09-29 18:40;;1.82;1;;;1.82;Intermarché;A;epicerie;2addab31-13a2-4789-a308-129be8c74050.pdf;31.22;;20;20
+KIWI JAUNE PIECE;2026-09-29 18:40;;0.45;8;;;3.60;Intermarché;A;fruits_legumes;2addab31-13a2-4789-a308-129be8c74050.pdf;31.22;;20;20
+ALSA LEVUR.CHIM.AIR;2026-09-29 18:40;;0.72;1;;;0.72;Intermarché;A;autre;2addab31-13a2-4789-a308-129be8c74050.pdf;31.22;;20;20
+APTA EPONGE GRAT.DCE;2026-09-29 18:40;;1.24;1;;;1.24;Intermarché;B;autre;2addab31-13a2-4789-a308-129be8c74050.pdf;31.22;;20;20
+PAT GATEAU DE RIZ 4X;2026-09-29 18:40;;1.57;1;;;1.57;Intermarché;A;boissons;2addab31-13a2-4789-a308-129be8c74050.pdf;31.22;;20;20
+RAISIN CHASSELAS AOP;2026-09-29 18:40;;3.74;1;;;3.74;Intermarché;A;epicerie;2addab31-13a2-4789-a308-129be8c74050.pdf;31.22;;20;20
+COURGETTE VRAC;2026-09-29 18:40;;1.75;1;;;1.75;Intermarché;A;fruits_legumes;2addab31-13a2-4789-a308-129be8c74050.pdf;31.22;;20;20
+Gl Amarena It;2027-01-31;SURGELES;2.99;1;;;2.99;Picard;;glaces;03ceccee-7538-464b-a200-d6063e0fa691.pdf;13.07;0.80;4;4
+Epinards bio;2027-01-31;SURGELES;2.90;1;;;2.90;Picard;;fruits_legumes;03ceccee-7538-464b-a200-d6063e0fa691.pdf;13.07;0.80;4;4
+Naanwich poulet;2027-01-31;SURGELES;3.99;1;;;3.99;Picard;;viandes;03ceccee-7538-464b-a200-d6063e0fa691.pdf;13.07;0.80;4;4
+Chapati sce méch;2027-01-31;SURGELES;3.99;1;;;3.99;Picard;;;03ceccee-7538-464b-a200-d6063e0fa691.pdf;13.07;0.80;4;4
+Façon cappuccino;2027-01-31;SURGELES;2.99;1;;;2.99;Picard;;;525fe9da-b703-44ab-a148-7ecb2f3a2ae7.pdf;10.59;;4;4
+Gnocchi mix miam;2027-01-31;SURGELES;1.20;1;;;1.20;Picard;;;525fe9da-b703-44ab-a148-7ecb2f3a2ae7.pdf;10.59;;4;4
+Epinards bio;2027-01-31;SURGELES;2.90;1;;;2.90;Picard;;fruits_legumes;525fe9da-b703-44ab-a148-7ecb2f3a2ae7.pdf;10.59;;4;4
+Sauce béchamel;2027-01-31;SURGELES;3.50;1;;;3.50;Picard;;;525fe9da-b703-44ab-a148-7ecb2f3a2ae7.pdf;10.59;;4;4
+Crevette SJacq;2027-01-31;SURGELES;6.50;1;;;6.50;Picard;;;6aeefb26-6640-4093-bde0-848dccc809fb.pdf;29.70;7.64;8;8
+Saum épice,riz;2027-01-31;SURGELES;4.99;1;;;4.99;Picard;;epicerie;6aeefb26-6640-4093-bde0-848dccc809fb.pdf;29.70;7.64;8;8
+Epinards bio;2027-01-31;SURGELES;2.90;1;;;2.90;Picard;;fruits_legumes;6aeefb26-6640-4093-bde0-848dccc809fb.pdf;29.70;7.64;8;8
+Gl Amarena It;2027-01-31;SURGELES;2.99;1;;;2.99;Picard;;glaces;6aeefb26-6640-4093-bde0-848dccc809fb.pdf;29.70;7.64;8;8
+Façon cappuccino;2027-01-31;SURGELES;2.99;1;;;2.99;Picard;;;6aeefb26-6640-4093-bde0-848dccc809fb.pdf;29.70;7.64;8;8
+M.cheeseburger;2027-01-31;SURGELES;6.99;1;;;6.99;Picard;;;6aeefb26-6640-4093-bde0-848dccc809fb.pdf;29.70;7.64;8;8
+Poêlé asp/mor;2027-01-31;SURGELES;6.99;1;;;6.99;Picard;;;6aeefb26-6640-4093-bde0-848dccc809fb.pdf;29.70;7.64;8;8
+Gnocchi aux cèpe;2027-01-31;SURGELES;2.99;1;;;2.99;Picard;;;6aeefb26-6640-4093-bde0-848dccc809fb.pdf;29.70;7.64;8;8
+Poulet cury FE;2027-01-31;SURGELES;2.99;1;;;2.99;Picard;;viandes;878720c1-92de-4dda-a9ff-76b3bd5e343c.pdf;18.71;;7;6
+Gl pistache It;2027-01-31;SURGELES;2.99;1;;;2.99;Picard;;glaces;878720c1-92de-4dda-a9ff-76b3bd5e343c.pdf;18.71;;7;6
+Façon cappuccino;2027-01-31;SURGELES;2.99;1;;;2.99;Picard;;;878720c1-92de-4dda-a9ff-76b3bd5e343c.pdf;18.71;;7;6
+Purée lég vert b;2027-01-31;SURGELES;2.65;1;;;2.65;Picard;;;878720c1-92de-4dda-a9ff-76b3bd5e343c.pdf;18.71;;7;6
+Gnocchi mix miam;2027-01-31;SURGELES;1.20;1;;;1.20;Picard;;;878720c1-92de-4dda-a9ff-76b3bd5e343c.pdf;18.71;;7;6
+Epinards bio;2027-01-31;SURGELES;2.90;1;;;2.90;Picard;;fruits_legumes;878720c1-92de-4dda-a9ff-76b3bd5e343c.pdf;18.71;;7;6
+6 cônes mangue;2027-01-31;SURGELES;4.20;1;;;4.20;Picard;;;95275415-3f8a-4aff-883a-f694ca552278.pdf;19.19;2.10;4;4
+Epinards bio;2027-01-31;SURGELES;2.90;1;;;2.90;Picard;;fruits_legumes;95275415-3f8a-4aff-883a-f694ca552278.pdf;19.19;2.10;4;4
+6 cônes fr rouge;2027-01-31;SURGELES;4.20;1;;;4.20;Picard;;;95275415-3f8a-4aff-883a-f694ca552278.pdf;19.19;2.10;4;4
+Crev.cury roug;2027-01-31;SURGELES;9.99;1;;;9.99;Picard;;;95275415-3f8a-4aff-883a-f694ca552278.pdf;19.19;2.10;4;4
+Epinards bio;2027-01-31;SURGELES;2.90;1;;;2.90;Picard;;fruits_legumes;9a3e107d-a3c0-4f43-8ab2-862b71dbd299.pdf;10.08;2;4;2
+Gnocchi mix miam;2027-01-31;SURGELES;1.20;1;;;1.20;Picard;;;9a3e107d-a3c0-4f43-8ab2-862b71dbd299.pdf;10.08;2;4;2
+Trio lég mix mia;2027-01-31;SURGELES;1.20;1;;;1.20;Picard;;;9e2e4fde-6375-4aec-955e-64477240cd7c.pdf;14.47;;7;4
+Façon cappuccino;2027-01-31;SURGELES;2.99;1;;;2.99;Picard;;;9e2e4fde-6375-4aec-955e-64477240cd7c.pdf;14.47;;7;4
+Gl Amarena It;2027-01-31;SURGELES;2.99;1;;;2.99;Picard;;glaces;9e2e4fde-6375-4aec-955e-64477240cd7c.pdf;14.47;;7;4
+Epinards bio;2027-01-31;SURGELES;2.90;1;;;2.90;Picard;;fruits_legumes;9e2e4fde-6375-4aec-955e-64477240cd7c.pdf;14.47;;7;4
+Nocciola crème g;2027-01-31;SURGELES;2.99;1;;;2.99;Picard;;glaces;b1ce62ba-ac64-47d9-8117-7c63bfab1e5c.pdf;27.68;3.20;7;5
+Puré potimarron;2027-01-31;SURGELES;2.50;1;;;2.50;Picard;;;b1ce62ba-ac64-47d9-8117-7c63bfab1e5c.pdf;27.68;3.20;7;5
+Navarin mer 800g;2027-01-31;SURGELES;15.99;1;;;15.99;Picard;;;b1ce62ba-ac64-47d9-8117-7c63bfab1e5c.pdf;27.68;3.20;7;5
+Epinards bio;2027-01-31;SURGELES;2.90;1;;;2.90;Picard;;fruits_legumes;b1ce62ba-ac64-47d9-8117-7c63bfab1e5c.pdf;27.68;3.20;7;5
+Trio lég mix mia;2027-01-31;SURGELES;1.20;1;;;1.20;Picard;;;b1ce62ba-ac64-47d9-8117-7c63bfab1e5c.pdf;27.68;3.20;7;5
+Façon cappuccino;2027-01-31;SURGELES;2.99;1;;;2.99;Picard;;;da71ad72-2dfb-49bb-9972-18752807c380.pdf;23.87;1.80;6;4
+Tagliat truffe;2027-01-31;SURGELES;3.99;1;;;3.99;Picard;;glaces;da71ad72-2dfb-49bb-9972-18752807c380.pdf;23.87;1.80;6;4
+Gnocchi aux cèpe;2027-01-31;SURGELES;2.99;1;;;2.99;Picard;;;da71ad72-2dfb-49bb-9972-18752807c380.pdf;23.87;1.80;6;4
+Cockt.fruit mer;2027-01-31;SURGELES;8.50;1;;;8.50;Picard;;fruits_legumes;da71ad72-2dfb-49bb-9972-18752807c380.pdf;23.87;1.80;6;4
+Gl Amarena It;2027-01-31;SURGELES;2.99;1;;;2.99;Picard;;glaces;e6fc2932-622a-492f-8821-d48413f5a415.pdf;21.77;;5;5
+Sorbet mangue 60;2027-01-31;SURGELES;4.60;1;;;4.60;Picard;;glaces;e6fc2932-622a-492f-8821-d48413f5a415.pdf;21.77;;5;5
+Façon cappuccino;2027-01-31;SURGELES;2.99;1;;;2.99;Picard;;;e6fc2932-622a-492f-8821-d48413f5a415.pdf;21.77;;5;5
+Crev.cury roug;2027-01-31;SURGELES;9.99;1;;;9.99;Picard;;;e6fc2932-622a-492f-8821-d48413f5a415.pdf;21.77;;5;5
+Gnocchi mix miam;2027-01-31;SURGELES;1.20;1;;;1.20;Picard;;;e6fc2932-622a-492f-8821-d48413f5a415.pdf;21.77;;5;5
+OEUFS PPA X6;;;2.81;1;;;2.81;Casino;;autre;casino_2-1.png;50.45;3.93;29;29
+ISEY SKYR FRAM/MYR;;;3.55;1;;;3.55;Casino;;autre;casino_2-1.png;50.45;3.93;29;29
+COMTE 4/6M AOP;;;19.95;1;0.212;19.95;4.23;Casino;;autre;casino_2-1.png;50.45;3.93;29;29
+CHOUCROUTF. GARNIE;;;3.95;1;;;3.95;Casino;;autre;casino_2-1.png;50.45;3.93;29;29
+PR BRIE PASTEURISE;;;2.20;1;;;2.20;Casino;;autre;casino_2-1.png;50.45;3.93;29;29
+LAIT BK;;;0.89;1;;;0.89;Casino;;produits_laitiers;casino_2-1.png;50.45;3.93;29;29
+DANONE FROM BLANC;;;3.09;1;;;3.09;Casino;;autre;casino_2-1.png;50.45;3.93;29;29
+CAROTTE 750G ORES;;;1.79;1;;;1.79;Casino;;fruits_legumes;casino_2-1.png;50.45;3.93;29;29
+AMPOULE LED E27 BL;;;1.90;1;;;1.90;Casino;;autre;casino_2-1.png;50.45;3.93;29;29
+LOR ESPRESSO OR JA;;;3.21;1;;;3.21;Casino;;autre;casino_2-1.png;50.45;3.93;29;29
+LOR ESPRESSO OR JA;;;3.21;1;;;3.21;Casino;;autre;casino_2-1.png;50.45;3.93;29;29
+TAB.CHOCO NOIR 70;;;0.74;1;;;0.74;Casino;;autre;casino_2-1.png;50.45;3.93;29;29
+02ZA POULET CHEVR;;;2.50;1;;;2.50;Casino;;viandes;casino_2-1.png;50.45;3.93;29;29
+PAVE TS;;;1.79;1;;;1.79;Casino;;autre;casino_2-1.png;50.45;3.93;29;29
+CHANTECLERC;;;2.79;1;0.864;2.79;2.41;Casino;;autre;casino_2-1.png;50.45;3.93;29;29
+SOJA CHOCO;;;1.89;1;;;1.89;Casino;;autre;casino_2-1.png;50.45;3.93;29;29
+DATTE BRANCH;;;3.69;1;;;3.69;Casino;;autre;casino_2-1.png;50.45;3.93;29;29
+SOJA CHOCO;;;1.89;1;;;1.89;Casino;;autre;casino_2-1.png;50.45;3.93;29;29
+JUS CITR.VERT COBI;;;1.64;1;;;1.64;Casino;;boissons;casino_2-1.png;50.45;3.93;29;29
+KIWIS;;;0.70;10;;;7;Casino;;fruits_legumes;casino_2-1.png;50.45;3.93;29;29
+BIERF 75CL;;;5.06;1;;;5.06;Casino;;autre;casino_2-2.png;72.07;3.41;;23
+NESTLL DESS .PEPITE;;;2.95;1;;;2.95;Casino;;autre;casino_2-2.png;72.07;3.41;;23
+BIÈRE NINKASI BLON;;;4.59;1;;;4.59;Casino;;boissons;casino_2-2.png;72.07;3.41;;23
+° OEUFS PPA X6;;;2.69;1;;;2.69;Casino;;autre;casino_2-2.png;72.07;3.41;;23
+RAVIOLI COEUF BRAI;;;3.95;1;;;3.95;Casino;;autre;casino_2-2.png;72.07;3.41;;23
+GOUDA VIEUX;;;23.95;1;0.314;23.95;7.52;Casino;;autre;casino_2-2.png;72.07;3.41;;23
+HF COMTE AOP &M;;;7.80;1;;;7.80;Casino;;autre;casino_2-2.png;72.07;3.41;;23
+FLO .AVOINE 5006;;;1.09;1;;;1.09;Casino;;autre;casino_2-2.png;72.07;3.41;;23
+DATTES DENOY;;;3.05;1;;;3.05;Casino;;autre;casino_2-2.png;72.07;3.41;;23
+PLAT . ASSORT;;;7.70;1;;;7.70;Casino;;autre;casino_2-2.png;72.07;3.41;;23
+CRANBERRY 150;;;4.60;1;;;4.60;Casino;;autre;casino_2-2.png;72.07;3.41;;23
+FOZZA LEGUMES POUL;;;2;1;;;2;Casino;;autre;casino_2-2.png;72.07;3.41;;23
+DATTE BRANCH;;;3.69;1;;;3.69;Casino;;autre;casino_2-2.png;72.07;3.41;;23
+PATATE DOUCE;;;1.99;1;0.950;1.99;1.89;Casino;;autre;casino_2-2.png;72.07;3.41;;23
+POM DE TERRE;;;1.79;1;0.905;1.79;1.62;Casino;;autre;casino_2-2.png;72.07;3.41;;23
+BAIES GOJI CO BIO;;;3.59;1;;;3.59;Casino;;autre;casino_2-2.png;72.07;3.41;;23
+BIO NOIX CAJOU;;;27.90;1;0.250;27.90;6.98;Casino;;autre;casino_2-2.png;72.07;3.41;;23
+BAGUETTE;;;1.21;1;;;1.21;Casino;;boulangerie;casino_2-2.png;72.07;3.41;;23
+KIWI GOLD;;;0.70;5;;;3.50;Casino;;fruits_legumes;casino_2-2.png;72.07;3.41;;23

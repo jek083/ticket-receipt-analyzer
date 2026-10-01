@@ -1,0 +1,156 @@
+{
+  "fichier_source": "2986d8cc-b05a-4b76-8952-6aeccc0b094b.pdf",
+  "enseigne": "Intermarché",
+  "date": "2026-08-25 19:13",
+  "total_ticket": 29.95,
+  "total_remises": null,
+  "nombre_articles_ticket": 13,
+  "articles_detectes": 13,
+  "unites_detectees": 13,
+  "articles": [
+    {
+      "article": "VITTEL EAU MINE.PET",
+      "rayon": null,
+      "prix_unitaire": 0.43,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 0.43,
+      "tva_code": "A",
+      "categorie": "boissons"
+    },
+    {
+      "article": "ST YORRE EAU M.GAZ 6",
+      "rayon": null,
+      "prix_unitaire": 0.56,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 0.56,
+      "tva_code": "A",
+      "categorie": "boissons"
+    },
+    {
+      "article": "SKYR FRAISE 450G",
+      "rayon": null,
+      "prix_unitaire": 2.69,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 2.69,
+      "tva_code": "A",
+      "categorie": "fruits_legumes"
+    },
+    {
+      "article": "ALVALLE GAZPACHO 1L",
+      "rayon": null,
+      "prix_unitaire": 3.55,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 3.55,
+      "tva_code": "A",
+      "categorie": "autre"
+    },
+    {
+      "article": "FE GRUYERE IGP FRANC",
+      "rayon": null,
+      "prix_unitaire": 3.6,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 3.6,
+      "tva_code": "A",
+      "categorie": "autre"
+    },
+    {
+      "article": "FE PPX BRIE PASTEURI",
+      "rayon": null,
+      "prix_unitaire": 2.45,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 2.45,
+      "tva_code": "A",
+      "categorie": "autre"
+    },
+    {
+      "article": "LESIEUR MAYONNAISE T",
+      "rayon": null,
+      "prix_unitaire": 0.82,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 0.82,
+      "tva_code": "A",
+      "categorie": "autre"
+    },
+    {
+      "article": "APTA EPGES GRAT. SYN",
+      "rayon": null,
+      "prix_unitaire": 1.13,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 1.13,
+      "tva_code": "B",
+      "categorie": "autre"
+    },
+    {
+      "article": "GRESSINS ROMARIN",
+      "rayon": null,
+      "prix_unitaire": 2.79,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 2.79,
+      "tva_code": "A",
+      "categorie": "autre"
+    },
+    {
+      "article": "MELON PIECE",
+      "rayon": null,
+      "prix_unitaire": 2.49,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 2.49,
+      "tva_code": "A",
+      "categorie": "autre"
+    },
+    {
+      "article": "CONCOMBRE PIECE",
+      "rayon": null,
+      "prix_unitaire": 1.89,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 1.89,
+      "tva_code": "A",
+      "categorie": "autre"
+    },
+    {
+      "article": "LA NVL AGRI.12 OEUFS",
+      "rayon": null,
+      "prix_unitaire": 4.0,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 4.0,
+      "tva_code": "A",
+      "categorie": "autre"
+    },
+    {
+      "article": "LVZ 10 CAPSULES NAP",
+      "rayon": null,
+      "prix_unitaire": 3.55,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 3.55,
+      "tva_code": "A",
+      "categorie": "autre"
+    }
+  ],
+  "format_magasin": "Super"
+}

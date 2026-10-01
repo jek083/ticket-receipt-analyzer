@@ -1,0 +1,112 @@
+{
+  "fichier_source": "df34c9dc-4820-432e-8cb3-d0c1325a50ed.pdf",
+  "enseigne": "Intermarché",
+  "date": "2026-09-15 18:40",
+  "total_ticket": 25.62,
+  "total_remises": 4.01,
+  "nombre_articles_ticket": 9,
+  "articles_detectes": 9,
+  "unites_detectees": 9,
+  "articles": [
+    {
+      "article": "FM CHILI CON CARNE&R",
+      "rayon": null,
+      "prix_unitaire": 3.33,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 3.33,
+      "tva_code": "A",
+      "categorie": "autre"
+    },
+    {
+      "article": "MERCI FROMAGE BLANC",
+      "rayon": null,
+      "prix_unitaire": 2.09,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 2.09,
+      "tva_code": "A",
+      "categorie": "produits_laitiers"
+    },
+    {
+      "article": "RAISIN NOIR MUSCAT V",
+      "rayon": null,
+      "prix_unitaire": 3.01,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 3.01,
+      "tva_code": "A",
+      "categorie": "autre"
+    },
+    {
+      "article": "BOND PUREE DUO DOUCE",
+      "rayon": null,
+      "prix_unitaire": 3.55,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 3.55,
+      "tva_code": "A",
+      "categorie": "fruits_legumes"
+    },
+    {
+      "article": "STARB.RISTRETTO SHOT",
+      "rayon": null,
+      "prix_unitaire": 4.01,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 4.01,
+      "tva_code": "A",
+      "categorie": "autre"
+    },
+    {
+      "article": "STARBUCKS NESPRESSO",
+      "rayon": null,
+      "prix_unitaire": 4.13,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 4.13,
+      "tva_code": "A",
+      "categorie": "autre"
+    },
+    {
+      "article": "STARB.NES.ESPRES.ROA",
+      "rayon": null,
+      "prix_unitaire": 4.22,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 4.22,
+      "tva_code": "A",
+      "categorie": "autre"
+    },
+    {
+      "article": "P&C PAIN CAMPAGNARD",
+      "rayon": null,
+      "prix_unitaire": 1.69,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 1.69,
+      "tva_code": "A",
+      "categorie": "boulangerie"
+    },
+    {
+      "article": "FE GRUYERE IGP FRANC",
+      "rayon": null,
+      "prix_unitaire": 3.6,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 3.6,
+      "tva_code": "A",
+      "categorie": "autre"
+    }
+  ],
+  "format_magasin": "Super"
+}

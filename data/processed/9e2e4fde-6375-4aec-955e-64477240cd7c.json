@@ -1,0 +1,56 @@
+{
+  "fichier_source": "9e2e4fde-6375-4aec-955e-64477240cd7c.pdf",
+  "enseigne": "Picard",
+  "date": "2027-01-31",
+  "total_ticket": 14.47,
+  "total_remises": null,
+  "nombre_articles_ticket": 7,
+  "articles_detectes": 4,
+  "unites_detectees": 4,
+  "articles": [
+    {
+      "article": "Trio lég mix mia",
+      "rayon": "SURGELES",
+      "prix_unitaire": 1.2,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 1.2,
+      "tva_code": null,
+      "categorie": null
+    },
+    {
+      "article": "Façon cappuccino",
+      "rayon": "SURGELES",
+      "prix_unitaire": 2.99,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 2.99,
+      "tva_code": null,
+      "categorie": null
+    },
+    {
+      "article": "Gl Amarena It",
+      "rayon": "SURGELES",
+      "prix_unitaire": 2.99,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 2.99,
+      "tva_code": null,
+      "categorie": "glaces"
+    },
+    {
+      "article": "Epinards bio",
+      "rayon": "SURGELES",
+      "prix_unitaire": 2.9,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 2.9,
+      "tva_code": null,
+      "categorie": "fruits_legumes"
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "fichier_source": "ticket_Auchan.png",
+  "enseigne": "Auchan",
+  "date": "2024-06-14 18:37",
+  "total_ticket": 52.18,
+  "total_remises": null,
+  "nombre_articles_ticket": 12,
+  "articles_detectes": 12,
+  "unites_detectees": 12,
+  "articles": [
+    {
+      "article": "KALAMATA HUILE OLT",
+      "rayon": null,
+      "prix_unitaire": 12.73,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 12.73,
+      "tva_code": null,
+      "categorie": "epicerie"
+    },
+    {
+      "article": "POUCE VINAÏGRE ALC",
+      "rayon": null,
+      "prix_unitaire": 0.48,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 0.48,
+      "tva_code": null,
+      "categorie": "boissons"
+    },
+    {
+      "article": "COSMIA BRUMISATEUR",
+      "rayon": null,
+      "prix_unitaire": 1.36,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 1.36,
+      "tva_code": null,
+      "categorie": "autre"
+    },
+    {
+      "article": "RAINETT VAISELLE MA",
+      "rayon": null,
+      "prix_unitaire": 2.1,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 2.1,
+      "tva_code": null,
+      "categorie": "epicerie"
+    },
+    {
+      "article": "AUCHAN PAELLA 350G",
+      "rayon": null,
+      "prix_unitaire": 4.79,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 4.79,
+      "tva_code": null,
+      "categorie": "autre"
+    },
+    {
+      "article": "AUCHAN GAZPACHO 1L",
+      "rayon": null,
+      "prix_unitaire": 2.99,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 2.99,
+      "tva_code": null,
+      "categorie": "autre"
+    },
+    {
+      "article": "BROUSSE DAT MEDUOG",
+      "rayon": null,
+      "prix_unitaire": 9.49,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 9.49,
+      "tva_code": null,
+      "categorie": "autre"
+    },
+    {
+      "article": "NINKASI BIERE BLOND",
+      "rayon": null,
+      "prix_unitaire": 4.79,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 4.79,
+      "tva_code": null,
+      "categorie": "autre"
+    },
+    {
+      "article": "AUCHAN TORTILLA OT",
+      "rayon": null,
+      "prix_unitaire": 3.79,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 3.79,
+      "tva_code": null,
+      "categorie": "autre"
+    },
+    {
+      "article": "TROPIC OLIV VERT 0",
+      "rayon": null,
+      "prix_unitaire": 2.84,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 2.84,
+      "tva_code": null,
+      "categorie": "autre"
+    },
+    {
+      "article": "LINDOR NOIR 70% 1506",
+      "rayon": null,
+      "prix_unitaire": 2.83,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 2.83,
+      "tva_code": null,
+      "categorie": "autre"
+    },
+    {
+      "article": "FRATSE 5000",
+      "rayon": null,
+      "prix_unitaire": 3.99,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 3.99,
+      "tva_code": null,
+      "categorie": "autre"
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "fichier_source": "2addab31-13a2-4789-a308-129be8c74050.pdf",
+  "enseigne": "Intermarché",
+  "date": "2026-09-29 18:40",
+  "total_ticket": 31.22,
+  "total_remises": null,
+  "nombre_articles_ticket": 20,
+  "articles_detectes": 13,
+  "unites_detectees": 20,
+  "articles": [
+    {
+      "article": "P&C BAG CONSTANCE CE",
+      "rayon": null,
+      "prix_unitaire": 1.05,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 1.05,
+      "tva_code": "A",
+      "categorie": "autre"
+    },
+    {
+      "article": "DUCROS HERBE PROVENC",
+      "rayon": null,
+      "prix_unitaire": 3.75,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 3.75,
+      "tva_code": "A",
+      "categorie": "autre"
+    },
+    {
+      "article": "SCOT ADH MULTIREPAR",
+      "rayon": null,
+      "prix_unitaire": 7.05,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 7.05,
+      "tva_code": "B",
+      "categorie": "autre"
+    },
+    {
+      "article": "FE ITM JBN CT AC LR",
+      "rayon": null,
+      "prix_unitaire": 1.87,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 1.87,
+      "tva_code": "A",
+      "categorie": "autre"
+    },
+    {
+      "article": "SIGN.DENT CHARBON DE",
+      "rayon": null,
+      "prix_unitaire": 1.71,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 1.71,
+      "tva_code": "B",
+      "categorie": "autre"
+    },
+    {
+      "article": "APTA CARRE VAISSELLE",
+      "rayon": null,
+      "prix_unitaire": 1.35,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 1.35,
+      "tva_code": "B",
+      "categorie": "epicerie"
+    },
+    {
+      "article": "ST L SUCRE POUDRE BV",
+      "rayon": null,
+      "prix_unitaire": 1.82,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 1.82,
+      "tva_code": "A",
+      "categorie": "epicerie"
+    },
+    {
+      "article": "KIWI JAUNE PIECE",
+      "rayon": null,
+      "prix_unitaire": 0.45,
+      "quantite": 8,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 3.6,
+      "tva_code": "A",
+      "categorie": "fruits_legumes"
+    },
+    {
+      "article": "ALSA LEVUR.CHIM.AIR",
+      "rayon": null,
+      "prix_unitaire": 0.72,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 0.72,
+      "tva_code": "A",
+      "categorie": "autre"
+    },
+    {
+      "article": "APTA EPONGE GRAT.DCE",
+      "rayon": null,
+      "prix_unitaire": 1.24,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 1.24,
+      "tva_code": "B",
+      "categorie": "autre"
+    },
+    {
+      "article": "PAT GATEAU DE RIZ 4X",
+      "rayon": null,
+      "prix_unitaire": 1.57,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 1.57,
+      "tva_code": "A",
+      "categorie": "boissons"
+    },
+    {
+      "article": "RAISIN CHASSELAS AOP",
+      "rayon": null,
+      "prix_unitaire": 3.74,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 3.74,
+      "tva_code": "A",
+      "categorie": "epicerie"
+    },
+    {
+      "article": "COURGETTE VRAC",
+      "rayon": null,
+      "prix_unitaire": 1.75,
+      "quantite": 1,
+      "poids_kg": null,
+      "prix_kg": null,
+      "prix_total": 1.75,
+      "tva_code": "A",
+      "categorie": "fruits_legumes"
+    }
+  ],
+  "format_magasin": "Hyper"
+}
